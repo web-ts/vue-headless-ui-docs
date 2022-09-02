@@ -1,10 +1,10 @@
 export default {
   lang: "en-US",
   title: "Vue Headless UI",
-  logo: "/logo.svg",
   base: "/vue-headless-ui-docs/",
   description: "Just playing around.",
   themeConfig: {
+    logo: "/logo.svg",
     socialLinks: [
       { icon: "github", link: "https://github.com/web-ts/vue-headless-ui" },
     ],
