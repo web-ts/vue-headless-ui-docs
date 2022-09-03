@@ -27,7 +27,19 @@ export default {
             text: "Headless Accordion",
             link: "/components/headless-accordion",
           },
-          { text: "Headless Dialog", link: "/intro/headless-dialog" },
+          { text: "Headless Dialog", link: "/components/headless-dialog" },
+          { text: "Headless Tabs", link: "/components/headless-tabs" },
+          {
+            text: "Headless Input",
+            link: "/components/headless-input",
+            items: [
+              { text: "Form", link: "/components/input/form" },
+              {
+                text: "Fields",
+                link: "/components/components/input/fields",
+              },
+            ],
+          },
         ],
       },
     ],
